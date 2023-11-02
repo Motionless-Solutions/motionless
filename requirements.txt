@@ -1,2 +1,6 @@
 pandas
 opencv-python
+pre-commit
+black
+autoflake
+isort
