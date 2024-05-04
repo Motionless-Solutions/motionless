@@ -1,5 +1,6 @@
 pandas
 opencv-python
+opencv-contrib-python
 pre-commit
 black
 autoflake
