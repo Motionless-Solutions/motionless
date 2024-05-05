@@ -1,6 +1,7 @@
 pandas
 opencv-python
+face-recognition
 pre-commit
 black
 autoflake
-isort
+isort   
